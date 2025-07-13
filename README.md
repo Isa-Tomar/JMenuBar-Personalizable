@@ -47,9 +47,9 @@ Estas propiedades pueden editarse desde el editor visual de NetBeans (Propiedade
 
 ## Instrucciones de Uso de nuestro Componente:
 
--El componente visual se puede agregar directamente desde el palette de neatbeans
--Tiene el mismo comportamiento que un `JMenuBar` en definitivo, asi que se puede invocar desde `Source` o ser agregado visualmente desde `Design` 
-
+- El componente visual se puede agregar directamente desde el palette de neatbeans
+- Tiene el mismo comportamiento que un `JMenuBar` en definitivo, asi que se puede invocar desde `Source` o ser agregado visualmente desde `Design` 
+- Es importante recalcar que los cambios que se hagan dentro de "Foreground" y "Background" no afectaran en nada al JMenuBar Personalizable, ya que ahora sus funciones fueron reemplazados por "Color fondo" y "Color texto".
 ---
 
 ## Métodos relevantes dentro del codigo de nuestro Componente:
