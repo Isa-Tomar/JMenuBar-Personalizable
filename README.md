@@ -34,21 +34,21 @@ Estas propiedades pueden editarse desde el editor visual de NetBeans (Propiedade
 ## Instrucciones de Instalacion de nuestro Componente:
 
 `Instalacion del Componente`
--Abrir la ventana de palette de neatbeans
--Dentro del palette damos `Click derecho` y seleccionamos la opcion `Palette Manager`![alt text](Images/image-3.png)
--Seleccionamos la opcion`Add from JAR` ![alt text](Images/image-4.png)
--Buscamos nuestro archivo jar de nuestro Componente ![alt text](Images/image-5.png)
--Seleccionamos nuestro Componente y damos en `Next` ![alt text](Images/image-6.png)
--Asignamos el compartimento en el cual quisieramos agregar nuestro Componente Peronsalibles y damos en `Finish`  ![alt text](Images/image-7.png)
--Cerramos las ventanas emergente y verificamos en nuestro palette en el lugar donde pusimos nuestro `Componente personalizado` ![alt text](Images/image-8.png)
--En dado caso de que aparezca nuestro componente  no aparezca , daremos nuevamente `CLick derecho` dentro del palette y elegiremos la opcion `Refresh Palette` ![alt text](Images/image-9.png)
+- Abrir la ventana de palette de neatbeans
+- Dentro del palette damos `Click derecho` y seleccionamos la opcion `Palette Manager`![alt text](Images/image-3.png)
+- Seleccionamos la opcion`Add from JAR` ![alt text](Images/image-4.png)
+- Buscamos nuestro archivo jar de nuestro Componente ![alt text](Images/image-5.png)
+- Seleccionamos nuestro Componente y damos en `Next` ![alt text](Images/image-6.png)
+- Asignamos el compartimento en el cual quisieramos agregar nuestro Componente Peronsalibles y damos en `Finish`  ![alt text](Images/image-7.png)
+- Cerramos las ventanas emergente y verificamos en nuestro palette en el lugar donde pusimos nuestro `Componente personalizado` ![alt text](Images/image-8.png)
+- En dado caso de que aparezca nuestro componente  no aparezca , daremos nuevamente `CLick derecho` dentro del palette y elegiremos la opcion `Refresh Palette` ![alt text](Images/image-9.png)
 
 ---
 
 ## Instrucciones de Uso de nuestro Componente:
 
 -El componente visual se puede agregar directamente desde el palette de neatbeans
--Tiene el mismo comportamiento que un `JMenuBar`, asi que se puede invocar desde `Source` o ser agregado visualmente desde `Design` 
+-Tiene el mismo comportamiento que un `JMenuBar` en definitivo, asi que se puede invocar desde `Source` o ser agregado visualmente desde `Design` 
 
 ---
 
