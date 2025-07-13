@@ -1,8 +1,8 @@
 # MenuBarPersonalizable - Componente Visual en Java
 
 ## Integrantes del equipo
--Toledo Mariscal Isai Raziel
--Hernández Uvera Azael
+- Toledo Mariscal Isai Raziel
+- Hernández Uvera Azael
 
 ## Enlace de YOUTUBE [text](https://youtu.be/8Joq9oHXypw)
 ---
